@@ -53,7 +53,7 @@ I specialize in **Azure**, **AWS**, **Kubernetes**, **Terraform**, and **CI/CD**
 
 #### 💬 Let's Connect
 📧 Email: [adeniyekehinde0@gmail.com](mailto:adeniyekehinde0@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/kehindeadeniyedevops](#)  
+💼 LinkedIn: [linkedin.com/in/kehinde-adeniye-621b5197/](#)  
 💻 GitHub: [github.com/damkenny](https://github.com/damkenny)  
 
 ---
