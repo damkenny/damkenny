@@ -39,6 +39,7 @@ I specialize in **Azure**, **AWS**, **Kubernetes**, **Terraform**, and **CI/CD**
 - **Certified Kubernetes Administrator (CKA)**  
 - **Google Cloud Certified – Associate Cloud Engineer**  
 - **ITIL® Specialist: Plan, Implement & Control**  
+- **ITIL® V4 : Foundation** 
 - **ISO/IEC 20000 Certified – IT Service Management**  
 
 ---
